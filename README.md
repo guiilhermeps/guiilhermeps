@@ -1,6 +1,6 @@
 # 👋 Hi, Git world! I'm Guilherme Pereira!
 
-<img align="right" height="115cm"  alt="zoro" src="https://s4.ezgif.com/tmp/ezgif-4-d4730c535a.gif" /> 
+<img align="right" height="130cm"  alt="zoro" src="https://s4.ezgif.com/tmp/ezgif-4-d4730c535a.gif" /> 
 
 
 ✨ I'm 25 years old and have been studying technology for 16 years. I have a degree in Systems Analysis and Development and a postgraduate degree in Information Security..
