@@ -1,6 +1,6 @@
 # 👋 Hi, Git world! I'm Guilherme Pereira!
 
-<img align="right" height="130cm"  alt="zoro" src="https://s4.ezgif.com/tmp/ezgif-4-d4730c535a.gif" /> 
+<img align="right" height="130cm"  alt="zoro" src="https://camo.githubusercontent.com/eab05d4ad8ac6a0007560ebf7b30f87a405bd2d2b7696249189a6fe90ca01b72/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786257396c4e476433614868324d444a68635459775a47777761444e6c617a4d325a7a56724e6e67314f5756345a5756355a47703459695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7670486e516e696c57456f52366c724c46592f67697068792e676966" /> 
 
 
 ✨ I'm 25 years old and have been studying technology for 16 years. I have a degree in Systems Analysis and Development and a postgraduate degree in Information Security..
