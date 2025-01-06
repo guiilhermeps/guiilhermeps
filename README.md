@@ -1,6 +1,6 @@
 # 👋 Hi, Git world! I'm Guilherme Pereira!
 
-<img align="right" width="290" height="290cm" alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif" /> 
+<img align="right" width="225" height="225" alt="zoro" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9lNGd3aHh2MDJhcTYwZGwwaDNlazM2ZzVrNng1OWV4ZWV5ZGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpHnQnilWEoR6lrLFY/giphy.gif" /> 
 
 
 ✨ I'm 25 years old and have been studying technology for 16 years. I have a degree in Systems Analysis and Development and a postgraduate degree in Information Security..
@@ -9,7 +9,8 @@
 
 🎮 In my free time I enjoy playing video games and playing the guitar 🎸
 
-
+<br/>
+<br/>
 
 ## Technologies that I study and have studied during my journey 💻
 
